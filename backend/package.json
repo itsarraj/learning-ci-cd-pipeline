@@ -1,11 +1,11 @@
 {
-  "name": "httpserver",
-  "version": "1.0.0",
-  "description": "Server",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Animesh Raj",
-  "license": "ISC"
+    "name": "httpserver",
+    "version": "1.0.0",
+    "description": "Server",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Animesh Raj",
+    "license": "ISC"
 }

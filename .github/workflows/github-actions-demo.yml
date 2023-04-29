@@ -8,4 +8,4 @@ jobs:
               uses: actions/checkout@v1
             - run: cd backend
             - run: npm i
-            - run: npm run build
+            - run: npm run start
